@@ -1,0 +1,10 @@
+title       = "fakerapi"
+baseURL     = "https://fakerapi-cli.tamnd.com/"
+description = "Generate fake test data: persons, addresses, products, companies, texts, and images."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/fakerapi-cli"
